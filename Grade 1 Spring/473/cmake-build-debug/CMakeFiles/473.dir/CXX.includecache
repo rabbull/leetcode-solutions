@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/473/473.cc
+iostream
+-
+Solution.hpp
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/473/Solution.hpp
+
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/473/Solution.cc
+Solution.hpp
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/473/Solution.hpp
+cstring
+-
+iostream
+-
+set
+-
+
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/473/Solution.hpp
+vector
+-
+

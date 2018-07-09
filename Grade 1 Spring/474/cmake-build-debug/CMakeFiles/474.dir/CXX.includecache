@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/474/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+sys/time.h
+-
+

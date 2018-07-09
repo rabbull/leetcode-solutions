@@ -1,0 +1,3 @@
+C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4445.84\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\containsDuplicate.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\containsDuplicate.dir/objects.a @CMakeFiles\containsDuplicate.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\containsDuplicate.dir/objects.a -Wl,--no-whole-archive  -o containsDuplicate.exe -Wl,--out-implib,libcontainsDuplicate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\containsDuplicate.dir\linklibs.rsp

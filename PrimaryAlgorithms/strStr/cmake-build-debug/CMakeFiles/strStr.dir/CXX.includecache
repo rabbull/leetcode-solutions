@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/Solution.cpp
+vector
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/Solution.h
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/Solution.h
+string
+-
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/Solution.h
+

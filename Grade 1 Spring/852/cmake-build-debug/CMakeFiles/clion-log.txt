@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/media/karl/OS/Users/Karl/Documents/LeetCode/Grade 1 Spring/852"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/karl/OS/Users/Karl/Documents/LeetCode/Grade 1 Spring/852/cmake-build-debug

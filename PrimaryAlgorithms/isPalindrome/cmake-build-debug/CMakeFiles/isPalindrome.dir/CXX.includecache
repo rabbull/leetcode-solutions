@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/isPalindrome/Solution.cpp
+iostream
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/isPalindrome/Solution.h
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/isPalindrome/Solution.h
+string
+-
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/isPalindrome/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/isPalindrome/Solution.h
+

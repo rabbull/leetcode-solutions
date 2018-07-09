@@ -1,0 +1,4 @@
+C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.2757.13\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Karl\Documents\LeetCode\Grade 1 Spring\199"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/199/cmake-build-debug

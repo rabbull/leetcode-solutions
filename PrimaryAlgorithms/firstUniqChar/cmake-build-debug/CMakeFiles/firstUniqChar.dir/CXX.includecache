@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/firstUniqChar/Solution.cpp
+climits
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/firstUniqChar/Solution.h
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/firstUniqChar/Solution.h
+string
+-
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/firstUniqChar/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/firstUniqChar/Solution.h
+

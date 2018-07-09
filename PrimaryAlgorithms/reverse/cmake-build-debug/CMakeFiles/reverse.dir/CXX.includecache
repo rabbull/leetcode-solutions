@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/reverse/Solution.cpp
+string
+-
+climits
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/reverse/Solution.h
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/reverse/Solution.h
+
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/reverse/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/reverse/Solution.h
+

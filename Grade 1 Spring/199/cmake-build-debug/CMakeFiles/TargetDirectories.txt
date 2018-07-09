@@ -1,0 +1,3 @@
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/199/cmake-build-debug/CMakeFiles/199.dir
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/199/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karl/Documents/LeetCode/Grade 1 Spring/199/cmake-build-debug/CMakeFiles/rebuild_cache.dir

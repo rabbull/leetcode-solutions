@@ -1,0 +1,4 @@
+C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.3341.14\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Karl\Documents\LeetCode\PrimaryAlgorithms\strStr
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Karl/Documents/LeetCode/PrimaryAlgorithms/strStr/cmake-build-debug
